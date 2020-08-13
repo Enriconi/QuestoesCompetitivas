@@ -9,5 +9,5 @@
   <li>C++</li>
 </ul>
   
-<h3>🙆‍♀️ Alguma dúvida?</h3>
+<h2>🙆‍♀️ Alguma dúvida?</h2>
 <h4>Entre em contato: <a href="mailto:gabriel.enriconi@gmail.com">gabriel.enriconi@gmail.com</a></h4>
