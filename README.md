@@ -1,5 +1,4 @@
-<h1>♟ Questões competitivas<h1>
-  
+<h1>♟ Questões competitivas</h1>
 <h2>💡 Sobre as soluções:
 <h4>As soluções são de algumas plataformas de programação e competições que eu já participei desde 2017. Maioria das questões envolvem conceitos de: vetor, matriz, strings e técnicas de programação!</h4>
  
