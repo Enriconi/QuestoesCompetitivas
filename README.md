@@ -11,4 +11,4 @@
 </ul>
   
 <h3>🙆‍♀️ Alguma dúvida?</h3>
-<h4>Entre em contato: <a href="gabriel.enriconi@gmail.com" target="_blank">gabriel.enriconi@gmail.com</a></h4>
+<h4>Entre em contato: <a href="mailto:gabriel.enriconi@gmail.com">gabriel.enriconi@gmail.com</a></h4>
